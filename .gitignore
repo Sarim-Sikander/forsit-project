@@ -1,0 +1,11 @@
+/app/.env
+/venv/
+/.mypy_cache/
+.coverage
+.eggs/
+*.egg-info/
+dist/
+build/
+develop-eggs/
+/.pytest_cache/
+/.vscode/
